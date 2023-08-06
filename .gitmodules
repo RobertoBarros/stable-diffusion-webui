@@ -4,3 +4,12 @@
 [submodule "extensions/adetailer"]
 	path = extensions/adetailer
 	url = https://github.com/Bing-su/adetailer.git
+[submodule "extensions/sd-webui-aspect-ratio-helper"]
+	path = extensions/sd-webui-aspect-ratio-helper
+	url = https://github.com/thomasasfk/sd-webui-aspect-ratio-helper.git
+[submodule "extensions/sd-extension-system-info"]
+	path = extensions/sd-extension-system-info
+	url = https://github.com/vladmandic/sd-extension-system-info.git
+[submodule "extensions/stable-diffusion-webui-images-browser"]
+	path = extensions/stable-diffusion-webui-images-browser
+	url = https://github.com/AlUlkesh/stable-diffusion-webui-images-browser.git
