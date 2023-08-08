@@ -19,3 +19,6 @@
 [submodule "extensions/Catppuccin Theme"]
 	path = extensions/Catppuccin Theme
 	url = https://github.com/catppuccin/stable-diffusion-webui.git
+[submodule "extensions/stable-diffusion-webui-artists-ui-tweak"]
+	path = extensions/stable-diffusion-webui-artists-ui-tweak
+	url = https://github.com/GeorgLegato/stable-diffusion-webui-artists-ui-tweak.git
