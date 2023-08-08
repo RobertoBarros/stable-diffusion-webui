@@ -155,9 +155,11 @@
     "keyedit_precision_attention": 0.1,
     "keyedit_precision_extra": 0.05,
     "keyedit_delimiters": ".,\\/!?%^*;:{}=`~()",
-    "keyedit_move": true,
+    "keyedit_move": false,
     "quicksettings_list": [
-        "sd_model_checkpoint"
+        "sd_model_checkpoint",
+        "sd_vae",
+        "CLIP_stop_at_last_layers"
     ],
     "ui_tab_order": [],
     "hidden_tabs": [],
@@ -199,7 +201,9 @@
     "postprocessing_enable_in_main_ui": [],
     "postprocessing_operation_order": [],
     "upscaling_max_images_in_cache": 5,
-    "disabled_extensions": [],
+    "disabled_extensions": [
+        "Catppuccin Theme"
+    ],
     "disable_all_extensions": "none",
     "restore_config_state_file": "",
     "sd_checkpoint_hash": "6ce0161689b3853acaa03779ec93eafe75a02f4ced659bee03f50797806fa2fa",
@@ -291,6 +295,10 @@
     "image_browser_img_tooltips": true,
     "image_browser_show_progress": true,
     "image_browser_info_add": false,
-    "ctp_flavor": "frappe",
-    "accent_color": "lavender"
+    "ctp_flavor": "mocha",
+    "accent_color": "green",
+    "artuitw_quicksettings2settings": true,
+    "artuitw_settings2promptswidth": true,
+    "artuitw_settings2promptsXratio": 1,
+    "artuitw_galleryheightVH": 70
 }
