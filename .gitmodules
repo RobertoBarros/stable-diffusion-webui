@@ -16,3 +16,6 @@
 [submodule "extensions/openpose-editor"]
 	path = extensions/openpose-editor
 	url = https://github.com/fkunn1326/openpose-editor.git
+[submodule "extensions/Catppuccin Theme"]
+	path = extensions/Catppuccin Theme
+	url = https://github.com/catppuccin/stable-diffusion-webui.git
