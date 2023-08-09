@@ -31,3 +31,8 @@ wget -nc --content-disposition -P "${DEST_FOLDER}" "https://civitai.com/api/down
 # https://civitai.com/models/48139/lowra
 wget -nc -O "${DEST_FOLDER}LowRA.jpeg" "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/82e73369-a723-456c-869f-07e9abd48a19/width=450/3.jpeg"
 wget -nc --content-disposition -P "${DEST_FOLDER}" "https://civitai.com/api/download/models/63006"
+
+# MIR
+# https://civitai.com/models/121955/mir
+wget -nc -O "${DEST_FOLDER}LowRA.jpeg" "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8e909212-cc31-49ed-a49c-aedbf50a4267/width=450/00028-1026387903.jpeg"
+wget -nc --content-disposition -P "${DEST_FOLDER}" "https://civitai.com/api/download/models/132755"
