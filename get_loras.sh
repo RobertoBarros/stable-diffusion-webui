@@ -1,5 +1,5 @@
 #!/bin/bash
-DEST_FOLDER="/home/sd/stable-diffusion-webui/models/lora/"
+DEST_FOLDER="/home/sd/stable-diffusion-webui/models/Lora/"
 
 # Old Time Post Apocalyptic Enviroment XL
 # https://civitai.com/models/120651/old-time-post-apocalyptic-enviroment-xl
