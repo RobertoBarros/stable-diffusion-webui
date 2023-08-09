@@ -19,6 +19,13 @@ wget -nc --content-disposition -P "${DEST_FOLDER}" "https://civitai.com/api/down
 wget -nc -O "${DEST_FOLDER}deliberate_v2.jpeg" "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/40943b9c-ede2-48c0-77d7-b48fee661d00/width=450/150224.jpeg"
 wget -nc --content-disposition -P "${DEST_FOLDER}" "https://civitai.com/api/download/models/15236"
 
+# Reliberate
+# https://civitai.com/models/79754
+wget -nc -O "${DEST_FOLDER}reliberate_v20.jpeg" "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9f83063b-d9c6-40f0-b18f-728ebcc9f5f7/width=450/Reliberate%2001.jpeg"
+wget -nc --content-disposition -P "${DEST_FOLDER}" "https://civitai.com/api/download/models/135166"
+
+https://civitai.com/api/download/models/135166
+
 # photon_v1.safetensors
 wget -nc -O "${DEST_FOLDER}photon_v1.jpeg" "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4a3bf887-9e0e-482f-bb33-e42adb34ba00/width=450/00155-379732800.jpeg"
 wget -nc --content-disposition -P "${DEST_FOLDER}" "https://civitai.com/api/download/models/90072"
