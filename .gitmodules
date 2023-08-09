@@ -22,3 +22,6 @@
 [submodule "extensions/stable-diffusion-webui-artists-ui-tweak"]
 	path = extensions/stable-diffusion-webui-artists-ui-tweak
 	url = https://github.com/GeorgLegato/stable-diffusion-webui-artists-ui-tweak.git
+[submodule "extensions/sd-dynamic-prompts"]
+	path = extensions/sd-dynamic-prompts
+	url = https://github.com/adieyal/sd-dynamic-prompts.git
