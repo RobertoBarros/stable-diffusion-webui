@@ -1,7 +1,10 @@
 #!/bin/bash
-DEST_FOLDER="/home/sd/stable-diffusion-webui/models/Stable-diffusion/"
+DEST_FOLDER="/home/sd/stable-diffusion-webui/models/VAE/"
 
 wget -nc --content-disposition -P "${DEST_FOLDER}" "https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors"
+
+
+DEST_FOLDER="/home/sd/stable-diffusion-webui/models/Stable-diffusion/"
 
 # dreamshaper_8.safetensors
 wget -nc -O "${DEST_FOLDER}dreamshaper_8.jpeg" "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c1033497-007c-4a73-b812-915c8e32e8fe/width=450/26072224-5775713-(masterpiece),%20(extremely%20intricate_1.3),%20(realistic),%20portrait%20of%20a%20girl,%20the%20most%20beautiful%20in%20the%20world,%20(medieval%20armor),%20me.jpeg"
