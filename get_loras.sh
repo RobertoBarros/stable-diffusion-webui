@@ -25,7 +25,7 @@ wget -nc --content-disposition -P "${DEST_FOLDER}" "https://civitai.com/api/down
 # Skin & Hands (male/female) from Polyhedron
 # https://civitai.com/models/109043/skin-and-hands-malefemale-from-polyhedron
 wget -nc -O "${DEST_FOLDER}polyhedron_new_skin_v1.1.jpeg" "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b5787aa0-02d7-4401-abaa-8f81a624910a/width=450/00754-2094697662.jpeg"
-wget -nc --content-disposition -P "${DEST_FOLDER}" "https://civitai.com/api/download/models/135867"
+wget -nc --content-disposition -P "${DEST_FOLDER}" "https://civitai.com/api/download/models/122580"
 
 # LowRA
 # https://civitai.com/models/48139/lowra
