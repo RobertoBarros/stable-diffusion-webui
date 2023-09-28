@@ -1,6 +1,6 @@
 @echo off
 
-git pull submodule update --init --recursive
+git submodule update --init --recursive
 
 set PYTHON=
 set GIT=
