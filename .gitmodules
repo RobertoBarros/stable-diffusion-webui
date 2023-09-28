@@ -37,3 +37,6 @@
 [submodule "extensions/stable-diffusion-webui-state"]
 	path = extensions/stable-diffusion-webui-state
 	url = https://github.com/ilian6806/stable-diffusion-webui-state.git
+[submodule "extensions/a1111-mini-paint"]
+	path = extensions/a1111-mini-paint
+	url = https://github.com/0Tick/a1111-mini-paint.git
