@@ -34,3 +34,6 @@
 [submodule "extensions/Config-Presets"]
 	path = extensions/Config-Presets
 	url = https://github.com/Zyin055/Config-Presets.git
+[submodule "extensions/stable-diffusion-webui-state"]
+	path = extensions/stable-diffusion-webui-state
+	url = https://github.com/ilian6806/stable-diffusion-webui-state.git
