@@ -28,3 +28,6 @@
 [submodule "extensions/ultimate-upscale-for-automatic1111"]
 	path = extensions/ultimate-upscale-for-automatic1111
 	url = https://github.com/Coyote-A/ultimate-upscale-for-automatic1111.git
+[submodule "extensions/sd-webui-prompt-history"]
+	path = extensions/sd-webui-prompt-history
+	url = https://github.com/namkazt/sd-webui-prompt-history.git
