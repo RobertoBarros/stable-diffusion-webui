@@ -1,5 +1,7 @@
 @echo off
 
+git pull submodule update --init --recursive
+
 set PYTHON=
 set GIT=
 set VENV_DIR=
