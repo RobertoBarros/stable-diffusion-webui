@@ -31,9 +31,6 @@
 [submodule "extensions/sd-webui-prompt-history"]
 	path = extensions/sd-webui-prompt-history
 	url = https://github.com/namkazt/sd-webui-prompt-history.git
-[submodule "stable-diffusion-webui-state"]
-	path = stable-diffusion-webui-state
-	url = https://github.com/ilian6806/stable-diffusion-webui-state.git
 [submodule "extensions/Config-Presets"]
 	path = extensions/Config-Presets
 	url = https://github.com/Zyin055/Config-Presets.git
