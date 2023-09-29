@@ -40,3 +40,6 @@
 [submodule "extensions/a1111-mini-paint"]
 	path = extensions/a1111-mini-paint
 	url = https://github.com/0Tick/a1111-mini-paint.git
+[submodule "extensions/miaoshouai-assistant"]
+	path = extensions/miaoshouai-assistant
+	url = https://github.com/miaoshouai/miaoshouai-assistant.git
